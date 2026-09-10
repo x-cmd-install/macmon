@@ -12,6 +12,18 @@
 x install macmon
 ```
 
+## 代码规模
+
+合计: **4,733** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 3,478 | 115 | 616 | 11 |
+| Json | 801 | 0 | 0 | 1 |
+| Python | 170 | 1 | 30 | 1 |
+| Sh | 70 | 1 | 12 | 1 |
+| Toml | 70 | 0 | 9 | 2 |
+
 ## 源代码
 
 - **上游仓库**: <https://github.com/vladkens/macmon>
@@ -23,12 +35,6 @@ x install macmon
 - **最新版本**: `v0.8.2` (2026-08-04)
 - **最近提交**: 2026-08-04
 - **Release 含资产**: 1 个
-
-## Release 资产
-
-| 资产 | 大小 | 目标平台 |
-|------|-----:|----------|
-| [macmon-v0.8.2.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.8.2/macmon-v0.8.2.tar.gz) | 729.2 KiB | `native/unknown` |
 
 ## 流行度
 
@@ -43,20 +49,26 @@ x install macmon
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 1 | 0 |
+| last60d | 2026-07-12 | 3 | 0 | 0 | 1 | 3 | 17 |
 | 90d | 2026-06-12 | 3 | 0 | 0 | 3 | 4 | 17 |
+| last180d | 2026-03-14 | 6 | 5 | 1 | 6 | 4 | 48 |
 | 360d | 2025-09-15 | 6 | 8 | 2 | 17 | 6 | 50 |
+| last720d | 2024-09-20 | 17 | 14 | 2 | 31 | 11 | 101 |
 
-## 代码规模
+## Release 资产
 
-合计: **4,733** 行代码（覆盖前 5 种语言、共 **16** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [macmon-v0.8.2.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.8.2/macmon-v0.8.2.tar.gz) | 729.2 KiB | `native/unknown` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 3,478 | 115 | 616 | 11 |
-| Json | 801 | 0 | 0 | 1 |
-| Python | 170 | 1 | 30 | 1 |
-| Sh | 70 | 1 | 12 | 1 |
-| Toml | 70 | 0 | 9 | 2 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/macmon) 上共有 **8** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**5** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.8.2` | ✅ latest |
+| Nix unstable | `0.6.1` | ⚠️ outdated |
 
 ## 改进这些数据
 
@@ -67,4 +79,4 @@ macmon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:36Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T20:19:03Z._
