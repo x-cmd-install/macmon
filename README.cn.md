@@ -4,7 +4,7 @@
 
 🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
 
-![macmon](https://repo.x-cmd.io/macmon.svg)
+![macmon](https://repo.x-cmd.io/macmon.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,16 @@ x install macmon
 - **最新版本**: `v0.8.2` (2026-08-04)
 - **最近提交**: 2026-08-04
 - **Release 含资产**: 1 个
-- **发布时间**: 2026-08-04T16:28:49Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [macmon-v0.8.2.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.8.2/macmon-v0.8.2.tar.gz) | 729.2 KiB | `native/unknown` |
 
 ## 流行度
 
-- **Star**: 1,872 · **Fork**: 79 · **开放 issue**: 47 · **贡献者**: 15
+- **Star**: 1,875 · **Fork**: 79 · **开放 issue**: 47 · **贡献者**: 15
 
 ## 累计统计
 
@@ -62,4 +67,4 @@ macmon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:28:58Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:02:36Z._
