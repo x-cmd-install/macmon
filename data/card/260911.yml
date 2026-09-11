@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.2"
   latestRelease: "v0.8.2"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:29:14Z
+  collectedAt: 2026-09-11T20:33:05Z
 timeline:
   created: 2024-06-16
   lastCommit: 2026-08-04
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-04
   lastPrerelease: 
 popularity:
-  star: 1877
+  star: 1878
   watcher: 13
   fork: 79
   release: 21
@@ -87,7 +87,7 @@ total:
   commit: 117
 ---
 path: /home/runner/.x-repo/github.com/vladkens/macmon
-collectedAt: 2026-09-11T04:29:15Z
+collectedAt: 2026-09-11T20:33:06Z
 loc:
   Rust:
     code: 3478
