@@ -4,7 +4,7 @@
 
 🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
 
-[![x-cmd/install — macmon Code Quality Monitoring Repo Card](https://repo.x-cmd.io/macmon.svg)](https://x-cmd.com/install/macmon)
+[![x-cmd/install — macmon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/macmon.svg)](https://x-cmd.com/install/macmon)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **4,733** lines of code across **16** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,891 · **Forks**: 81 · **Open issues**: 48 · **Contributors**: 15
+- **Stars**: 1,892 · **Forks**: 81 · **Open issues**: 48 · **Contributors**: 15
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **4,733** lines of code across **16** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 1 | 0 | 2 | 0 |
-| last60d | 2026-07-24 | 3 | 0 | 1 | 1 | 3 | 10 |
-| 90d | 2026-06-24 | 3 | 0 | 1 | 3 | 5 | 17 |
-| last180d | 2026-03-26 | 6 | 5 | 2 | 5 | 5 | 47 |
-| 360d | 2025-09-27 | 6 | 8 | 3 | 17 | 7 | 50 |
-| last720d | 2024-10-02 | 17 | 14 | 3 | 31 | 12 | 101 |
+| 30d | 2026-08-24 | 0 | 0 | 1 | 0 | 2 | 0 |
+| last60d | 2026-07-25 | 2 | 0 | 1 | 1 | 3 | 10 |
+| 90d | 2026-06-25 | 3 | 0 | 1 | 3 | 5 | 17 |
+| last180d | 2026-03-27 | 6 | 5 | 2 | 5 | 5 | 47 |
+| 360d | 2025-09-28 | 6 | 8 | 3 | 17 | 7 | 50 |
+| last720d | 2024-10-03 | 17 | 14 | 3 | 31 | 12 | 101 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T04:42:43Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T04:38:05Z._
