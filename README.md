@@ -14,13 +14,13 @@ x install macmon
 
 ## Code insight
 
-Total: **11,377** lines of code across **28** files in the top 5 languages.
+Total: **12,052** lines of code across **28** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 8,591 | 336 | 1,287 | 21 |
+| Rust | 9,280 | 399 | 1,361 | 21 |
 | Python | 1,702 | 14 | 137 | 3 |
-| Json | 801 | 0 | 0 | 1 |
+| Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
 | Toml | 60 | 0 | 8 | 2 |
 
@@ -32,28 +32,28 @@ Total: **11,377** lines of code across **28** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.9.0` (2026-10-07)
-- **Last commit**: 2026-10-07
+- **Latest**: `dev` (2026-10-07)
+- **Last commit**: 2026-10-10
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,930 · **Forks**: 85 · **Open issues**: 50 · **Contributors**: 17
+- **Stars**: 1,937 · **Forks**: 85 · **Open issues**: 50 · **Contributors**: 17
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 18 · **Open PRs**: 3 · **Closed issues**: 42 · **Open issues**: 8 · **Commits**: 130
+- **Releases**: 23 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 8 · **Commits**: 132
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 2 | 4 | 1 | 1 | 2 | 13 |
-| last60d | 2026-08-10 | 2 | 4 | 1 | 2 | 2 | 13 |
-| 90d | 2026-07-11 | 5 | 4 | 1 | 3 | 4 | 30 |
-| last180d | 2026-04-12 | 7 | 8 | 2 | 7 | 4 | 48 |
-| 360d | 2025-10-14 | 8 | 12 | 2 | 22 | 4 | 63 |
-| last720d | 2024-10-19 | 17 | 17 | 3 | 36 | 7 | 104 |
+| 30d | 2026-09-10 | 2 | 6 | 0 | 1 | 2 | 15 |
+| last60d | 2026-08-11 | 2 | 6 | 0 | 2 | 2 | 15 |
+| 90d | 2026-07-12 | 5 | 6 | 0 | 3 | 4 | 32 |
+| last180d | 2026-04-13 | 7 | 10 | 1 | 7 | 4 | 50 |
+| 360d | 2025-10-15 | 8 | 14 | 1 | 22 | 4 | 65 |
+| last720d | 2024-10-20 | 17 | 19 | 2 | 36 | 7 | 106 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T05:57:39Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T05:39:53Z._
