@@ -1,0 +1,138 @@
+about:
+  description: "🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library."
+  license: MIT
+  homepage: https://docs.rs/macmon
+  head: 3f73817
+  archived: false
+  latestVersion: "dev"
+  latestRelease: "v0.9.0"
+  latestPrerelease: "dev"
+  collectedAt: 2026-10-11T05:36:11Z
+timeline:
+  created: 2024-06-16
+  lastCommit: 2026-10-11
+  lastVersion: 2026-10-07
+  lastRelease: 2026-10-07
+  lastPrerelease: 2026-10-07
+popularity:
+  star: 1942
+  watcher: 12
+  fork: 85
+  release: 23
+  contributor: 18
+  pullRequest: 44
+  issue: 50
+language:
+  Rust: 444540
+  Python: 71226
+  Shell: 4331
+  Makefile: 1193
+totalBytes: 521290
+recent:
+  last30d:
+    since: 2026-09-11
+    release: 2
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 2
+    openIssue: 1
+    commit: 20
+  last60d:
+    since: 2026-08-12
+    release: 2
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 3
+    openIssue: 1
+    commit: 20
+  last90d:
+    since: 2026-07-13
+    release: 5
+    mergedPR: 10
+    openPR: 2
+    closedIssue: 4
+    openIssue: 2
+    commit: 37
+  last180d:
+    since: 2026-04-14
+    release: 7
+    mergedPR: 14
+    openPR: 3
+    closedIssue: 8
+    openIssue: 3
+    commit: 53
+  last360d:
+    since: 2025-10-16
+    release: 8
+    mergedPR: 18
+    openPR: 3
+    closedIssue: 23
+    openIssue: 3
+    commit: 70
+  last720d:
+    since: 2024-10-21
+    release: 17
+    mergedPR: 23
+    openPR: 3
+    closedIssue: 36
+    openIssue: 6
+    commit: 111
+total:
+  release: 23
+  mergedPR: 24
+  openPR: 3
+  closedIssue: 43
+  openIssue: 7
+  commit: 137
+---
+path: /home/runner/.x-repo/github.com/vladkens/macmon
+collectedAt: 2026-10-11T05:36:12Z
+loc:
+  Rust:
+    code: 9817
+    comments: 432
+    blanks: 1425
+    files: 22
+  Python:
+    code: 1750
+    comments: 16
+    blanks: 151
+    files: 4
+  Json:
+    code: 787
+    comments: 0
+    blanks: 0
+    files: 1
+  Sh:
+    code: 143
+    comments: 2
+    blanks: 22
+    files: 1
+  Toml:
+    code: 54
+    comments: 0
+    blanks: 8
+    files: 1
+  Yaml:
+    code: 52
+    comments: 0
+    blanks: 5
+    files: 4
+  Makefile:
+    code: 31
+    comments: 0
+    blanks: 10
+    files: 1
+  Markdown:
+    code: 0
+    comments: 770
+    blanks: 338
+    files: 9
+total:
+  code: 12666
+  comments: 2054
+  blanks: 2002
+  files: 43
+---
+
+---
