@@ -14,15 +14,15 @@ x install macmon
 
 ## Code insight
 
-Total: **12,052** lines of code across **28** files in the top 5 languages.
+Total: **12,634** lines of code across **29** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 9,280 | 399 | 1,361 | 21 |
-| Python | 1,702 | 14 | 137 | 3 |
+| Rust | 9,817 | 432 | 1,425 | 22 |
+| Python | 1,750 | 16 | 151 | 4 |
 | Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
-| Toml | 60 | 0 | 8 | 2 |
+| Toml | 54 | 0 | 8 | 1 |
 
 ## Source
 
@@ -33,27 +33,27 @@ Total: **12,052** lines of code across **28** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-10-07)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-11
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 1,937 · **Forks**: 85 · **Open issues**: 50 · **Contributors**: 17
+- **Stars**: 1,942 · **Forks**: 85 · **Open issues**: 50 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 23 · **Merged PRs**: 20 · **Open PRs**: 2 · **Closed issues**: 42 · **Open issues**: 8 · **Commits**: 132
+- **Releases**: 23 · **Merged PRs**: 24 · **Open PRs**: 3 · **Closed issues**: 43 · **Open issues**: 7 · **Commits**: 137
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 2 | 6 | 0 | 1 | 2 | 15 |
-| last60d | 2026-08-11 | 2 | 6 | 0 | 2 | 2 | 15 |
-| 90d | 2026-07-12 | 5 | 6 | 0 | 3 | 4 | 32 |
-| last180d | 2026-04-13 | 7 | 10 | 1 | 7 | 4 | 50 |
-| 360d | 2025-10-15 | 8 | 14 | 1 | 22 | 4 | 65 |
-| last720d | 2024-10-20 | 17 | 19 | 2 | 36 | 7 | 106 |
+| 30d | 2026-09-11 | 2 | 10 | 2 | 2 | 1 | 20 |
+| last60d | 2026-08-12 | 2 | 10 | 2 | 3 | 1 | 20 |
+| 90d | 2026-07-13 | 5 | 10 | 2 | 4 | 2 | 37 |
+| last180d | 2026-04-14 | 7 | 14 | 3 | 8 | 3 | 53 |
+| 360d | 2025-10-16 | 8 | 18 | 3 | 23 | 3 | 70 |
+| last720d | 2024-10-21 | 17 | 23 | 3 | 36 | 6 | 111 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T05:39:53Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T05:36:22Z._
