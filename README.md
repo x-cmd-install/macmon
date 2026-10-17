@@ -38,22 +38,22 @@ Total: **14,728** lines of code across **31** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,970 · **Forks**: 91 · **Open issues**: 50 · **Contributors**: 18
+- **Stars**: 1,996 · **Forks**: 94 · **Open issues**: 50 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 35 · **Open PRs**: 3 · **Closed issues**: 43 · **Open issues**: 7 · **Commits**: 154
+- **Releases**: 24 · **Merged PRs**: 35 · **Open PRs**: 4 · **Closed issues**: 43 · **Open issues**: 7 · **Commits**: 154
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 3 | 21 | 2 | 2 | 0 | 37 |
-| last60d | 2026-08-17 | 3 | 21 | 2 | 3 | 1 | 37 |
-| 90d | 2026-07-18 | 6 | 21 | 2 | 4 | 2 | 54 |
-| last180d | 2026-04-19 | 7 | 25 | 3 | 7 | 3 | 70 |
-| 360d | 2025-10-21 | 9 | 29 | 3 | 23 | 3 | 87 |
-| last720d | 2024-10-26 | 16 | 34 | 3 | 36 | 6 | 125 |
+| 30d | 2026-09-17 | 3 | 21 | 3 | 2 | 0 | 37 |
+| last60d | 2026-08-18 | 3 | 21 | 3 | 3 | 1 | 37 |
+| 90d | 2026-07-19 | 6 | 21 | 3 | 4 | 2 | 54 |
+| last180d | 2026-04-20 | 7 | 25 | 4 | 7 | 3 | 70 |
+| 360d | 2025-10-22 | 9 | 29 | 4 | 23 | 3 | 87 |
+| last720d | 2024-10-27 | 16 | 34 | 4 | 36 | 6 | 125 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T04:20:33Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:12:14Z._
