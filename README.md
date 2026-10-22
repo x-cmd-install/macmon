@@ -14,7 +14,7 @@ x install macmon
 
 ## Code insight
 
-Total: **14,728** lines of code across **31** files in the top 5 languages.
+Total: **14,725** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **14,728** lines of code across **31** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-10-14)
-- **Last commit**: 2026-10-17
+- **Last commit**: 2026-10-21
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,016 · **Forks**: 93 · **Open issues**: 50 · **Contributors**: 18
+- **Stars**: 2,033 · **Forks**: 93 · **Open issues**: 50 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 35 · **Open PRs**: 4 · **Closed issues**: 43 · **Open issues**: 7 · **Commits**: 159
+- **Releases**: 24 · **Merged PRs**: 36 · **Open PRs**: 4 · **Closed issues**: 43 · **Open issues**: 7 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-21 | 3 | 21 | 3 | 2 | 0 | 42 |
-| last60d | 2026-08-22 | 3 | 21 | 3 | 3 | 1 | 42 |
-| 90d | 2026-07-23 | 6 | 21 | 3 | 4 | 2 | 52 |
-| last180d | 2026-04-24 | 7 | 25 | 4 | 7 | 3 | 75 |
-| 360d | 2025-10-26 | 9 | 29 | 4 | 23 | 3 | 92 |
-| last720d | 2024-10-31 | 16 | 34 | 4 | 36 | 6 | 130 |
+| 30d | 2026-09-22 | 3 | 22 | 3 | 2 | 0 | 43 |
+| last60d | 2026-08-23 | 3 | 22 | 3 | 3 | 1 | 43 |
+| 90d | 2026-07-24 | 6 | 22 | 3 | 4 | 2 | 53 |
+| last180d | 2026-04-25 | 7 | 26 | 4 | 7 | 3 | 76 |
+| 360d | 2025-10-27 | 9 | 30 | 4 | 23 | 3 | 93 |
+| last720d | 2024-11-01 | 16 | 35 | 4 | 36 | 6 | 131 |
 
 ## Release assets
 
@@ -70,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261021.yml` · 2026-10-21T04:32:26Z._
+_Snapshot: `data/card/261022.yml` · 2026-10-22T04:29:40Z._
