@@ -38,7 +38,7 @@ Total: **14,725** lines of code across **31** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,033 · **Forks**: 93 · **Open issues**: 50 · **Contributors**: 18
+- **Stars**: 2,037 · **Forks**: 94 · **Open issues**: 50 · **Contributors**: 18
 
 ## Totals (cumulative)
 
@@ -48,18 +48,27 @@ Total: **14,725** lines of code across **31** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 3 | 22 | 3 | 2 | 0 | 43 |
-| last60d | 2026-08-23 | 3 | 22 | 3 | 3 | 1 | 43 |
-| 90d | 2026-07-24 | 6 | 22 | 3 | 4 | 2 | 53 |
-| last180d | 2026-04-25 | 7 | 26 | 4 | 7 | 3 | 76 |
-| 360d | 2025-10-27 | 9 | 30 | 4 | 23 | 3 | 93 |
-| last720d | 2024-11-01 | 16 | 35 | 4 | 36 | 6 | 131 |
+| 30d | 2026-09-23 | 3 | 22 | 3 | 2 | 0 | 43 |
+| last60d | 2026-08-24 | 3 | 22 | 3 | 3 | 1 | 43 |
+| 90d | 2026-07-25 | 5 | 22 | 3 | 4 | 2 | 53 |
+| last180d | 2026-04-26 | 7 | 26 | 3 | 7 | 3 | 76 |
+| 360d | 2025-10-28 | 9 | 30 | 4 | 23 | 3 | 93 |
+| last720d | 2024-11-02 | 16 | 35 | 4 | 36 | 6 | 131 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [macmon-v0.10.0.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.10.0/macmon-v0.10.0.tar.gz) | 912.2 KiB | `native/unknown` |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.10.0` | ✅ latest |
+| Nix unstable | `0.8.2` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -70,4 +79,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T04:29:40Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T04:35:14Z._
