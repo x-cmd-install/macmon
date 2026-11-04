@@ -38,22 +38,22 @@ Total: **14,725** lines of code across **31** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,080 · **Forks**: 100 · **Open issues**: 52 · **Contributors**: 18
+- **Stars**: 2,083 · **Forks**: 99 · **Open issues**: 52 · **Contributors**: 18
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 36 · **Open PRs**: 10 · **Closed issues**: 44 · **Open issues**: 8 · **Commits**: 160
+- **Releases**: 24 · **Merged PRs**: 36 · **Open PRs**: 9 · **Closed issues**: 44 · **Open issues**: 8 · **Commits**: 160
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 3 | 21 | 9 | 2 | 1 | 30 |
-| last60d | 2026-09-04 | 3 | 22 | 9 | 4 | 2 | 43 |
-| 90d | 2026-08-05 | 3 | 22 | 9 | 4 | 2 | 43 |
-| last180d | 2026-05-07 | 6 | 24 | 9 | 8 | 4 | 72 |
-| 360d | 2025-11-08 | 9 | 30 | 10 | 23 | 4 | 93 |
-| last720d | 2024-11-13 | 16 | 35 | 10 | 37 | 7 | 131 |
+| 30d | 2026-10-05 | 3 | 21 | 8 | 2 | 1 | 30 |
+| last60d | 2026-09-05 | 3 | 22 | 8 | 3 | 2 | 43 |
+| 90d | 2026-08-06 | 3 | 22 | 8 | 4 | 2 | 43 |
+| last180d | 2026-05-08 | 6 | 24 | 8 | 8 | 4 | 72 |
+| 360d | 2025-11-09 | 9 | 30 | 9 | 23 | 4 | 93 |
+| last720d | 2024-11-14 | 16 | 35 | 9 | 36 | 7 | 131 |
 
 ## Release assets
 
@@ -63,12 +63,12 @@ Total: **14,725** lines of code across **31** files in the top 5 languages.
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **3** are ✅ on the latest upstream release, **4** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
 | Homebrew | `0.10.0` | ✅ latest |
-| Nix unstable | `0.8.2` | ⚠️ outdated |
+| Nix unstable | `0.10.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T06:32:15Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T06:08:17Z._
