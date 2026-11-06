@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
+🦀🌡️ Real-time system monitor for Apple Silicon Macs. No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
 
 [![x-cmd/install — macmon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/macmon.svg)](https://x-cmd.com/install/macmon)
 
@@ -14,11 +14,11 @@ x install macmon
 
 ## Code insight
 
-Total: **14,725** lines of code across **31** files in the top 5 languages.
+Total: **15,554** lines of code across **31** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 11,908 | 571 | 1,618 | 24 |
+| Rust | 12,737 | 579 | 1,729 | 24 |
 | Python | 1,750 | 16 | 151 | 4 |
 | Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
@@ -33,27 +33,27 @@ Total: **14,725** lines of code across **31** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-10-14)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-11-06
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,089 · **Forks**: 99 · **Open issues**: 52 · **Contributors**: 18
+- **Stars**: 2,090 · **Forks**: 99 · **Open issues**: 52 · **Contributors**: 19
 
 ## Totals (cumulative)
 
-- **Releases**: 24 · **Merged PRs**: 36 · **Open PRs**: 9 · **Closed issues**: 44 · **Open issues**: 8 · **Commits**: 160
+- **Releases**: 24 · **Merged PRs**: 41 · **Open PRs**: 9 · **Closed issues**: 45 · **Open issues**: 7 · **Commits**: 165
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 20 | 8 | 2 | 1 | 30 |
-| last60d | 2026-09-06 | 3 | 22 | 8 | 3 | 2 | 43 |
-| 90d | 2026-08-07 | 3 | 22 | 8 | 4 | 2 | 43 |
-| last180d | 2026-05-09 | 6 | 24 | 8 | 8 | 4 | 72 |
-| 360d | 2025-11-10 | 9 | 30 | 9 | 23 | 4 | 93 |
-| last720d | 2024-11-15 | 16 | 35 | 9 | 36 | 7 | 131 |
+| 30d | 2026-10-07 | 3 | 23 | 8 | 1 | 1 | 35 |
+| last60d | 2026-09-07 | 3 | 27 | 8 | 3 | 2 | 48 |
+| 90d | 2026-08-08 | 3 | 27 | 8 | 4 | 2 | 48 |
+| last180d | 2026-05-10 | 6 | 29 | 8 | 8 | 4 | 77 |
+| 360d | 2025-11-11 | 9 | 35 | 9 | 23 | 4 | 98 |
+| last720d | 2024-11-16 | 16 | 40 | 9 | 37 | 6 | 136 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T06:28:57Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T06:23:50Z._

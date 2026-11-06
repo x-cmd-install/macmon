@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-🦀🌡️ Real-time system monitor for Apple Silicon Macs (M1–M5). No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
+🦀🌡️ Real-time system monitor for Apple Silicon Macs. No sudo. TUI, JSON/Prometheus metrics server, and Rust library.
 
 [![x-cmd/install — macmon Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/macmon.svg?lang=zh)](https://x-cmd.com/install/macmon)
 
@@ -14,11 +14,11 @@ x install macmon
 
 ## 代码洞察
 
-合计: **14,725** 行代码（覆盖前 5 种语言、共 **31** 个文件）。
+合计: **15,554** 行代码（覆盖前 5 种语言、共 **31** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 11,908 | 571 | 1,618 | 24 |
+| Rust | 12,737 | 579 | 1,729 | 24 |
 | Python | 1,750 | 16 | 151 | 4 |
 | Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
@@ -33,27 +33,27 @@ x install macmon
 ## 发布
 
 - **最新版本**: `dev` (2026-10-14)
-- **最近提交**: 2026-10-21
+- **最近提交**: 2026-11-06
 - **Release 含资产**: 1 个
 
 ## 流行度
 
-- **Star**: 2,089 · **Fork**: 99 · **开放 issue**: 52 · **贡献者**: 18
+- **Star**: 2,090 · **Fork**: 99 · **开放 issue**: 52 · **贡献者**: 19
 
 ## 累计统计
 
-- **发布数**: 24 · **已合并 PR**: 36 · **开放 PR**: 9 · **已关闭 issue**: 44 · **开放 issue**: 8 · **提交数**: 160
+- **发布数**: 24 · **已合并 PR**: 41 · **开放 PR**: 9 · **已关闭 issue**: 45 · **开放 issue**: 7 · **提交数**: 165
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 3 | 20 | 8 | 2 | 1 | 30 |
-| last60d | 2026-09-06 | 3 | 22 | 8 | 3 | 2 | 43 |
-| 90d | 2026-08-07 | 3 | 22 | 8 | 4 | 2 | 43 |
-| last180d | 2026-05-09 | 6 | 24 | 8 | 8 | 4 | 72 |
-| 360d | 2025-11-10 | 9 | 30 | 9 | 23 | 4 | 93 |
-| last720d | 2024-11-15 | 16 | 35 | 9 | 36 | 7 | 131 |
+| 30d | 2026-10-07 | 3 | 23 | 8 | 1 | 1 | 35 |
+| last60d | 2026-09-07 | 3 | 27 | 8 | 3 | 2 | 48 |
+| 90d | 2026-08-08 | 3 | 27 | 8 | 4 | 2 | 48 |
+| last180d | 2026-05-10 | 6 | 29 | 8 | 8 | 4 | 77 |
+| 360d | 2025-11-11 | 9 | 35 | 9 | 23 | 4 | 98 |
+| last720d | 2024-11-16 | 16 | 40 | 9 | 37 | 6 | 136 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ macmon 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261105.yml` · 2026-11-05T06:28:58Z._
+_数据快照: `data/card/261106.yml` · 2026-11-06T06:23:51Z._
