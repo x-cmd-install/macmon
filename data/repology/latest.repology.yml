@@ -1,7 +1,7 @@
 - repo: homebrew
   srcname: macmon
   visiblename: macmon
-  version: 0.10.0
+  version: 0.11.0
   origversion: null
   status: newest
   summary: Sudoless performance monitoring for Apple Silicon processors
@@ -18,7 +18,7 @@
   visiblename: macmon
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Sudoless performance monitoring CLI tool for Apple Silicon processors
   maintainers:
     - i0ntempest@macports
@@ -76,7 +76,7 @@
   visiblename: macmon
   version: 0.10.0
   origversion: null
-  status: newest
+  status: outdated
   summary: Sudoless performance monitoring for Apple Silicon processors
   maintainers:
     - brent.monning.jr@gmail.com
