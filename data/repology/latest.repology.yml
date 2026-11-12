@@ -1,36 +1,3 @@
-- repo: nix_stable_25_05
-  srcname: macmon
-  visiblename: macmon
-  version: 0.5.1
-  origversion: null
-  status: outdated
-  summary: Sudoless performance monitoring for Apple Silicon processors
-  maintainers:
-    - brent.monning.jr@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_25_11
-  srcname: macmon
-  visiblename: macmon
-  version: 0.6.1
-  origversion: null
-  status: outdated
-  summary: Sudoless performance monitoring for Apple Silicon processors
-  maintainers:
-    - brent.monning.jr@gmail.com
-  licenses:
-    - MIT
-- repo: nix_stable_26_05
-  srcname: macmon
-  visiblename: macmon
-  version: 0.6.1
-  origversion: null
-  status: outdated
-  summary: Sudoless performance monitoring for Apple Silicon processors
-  maintainers:
-    - brent.monning.jr@gmail.com
-  licenses:
-    - MIT
 - repo: homebrew
   srcname: macmon
   visiblename: macmon
@@ -71,12 +38,45 @@
     - brent.monning.jr@gmail.com
   licenses:
     - MIT
+- repo: nix_stable_25_05
+  srcname: macmon
+  visiblename: macmon
+  version: 0.5.1
+  origversion: null
+  status: outdated
+  summary: Sudoless performance monitoring for Apple Silicon processors
+  maintainers:
+    - brent.monning.jr@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: macmon
+  visiblename: macmon
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Sudoless performance monitoring for Apple Silicon processors
+  maintainers:
+    - brent.monning.jr@gmail.com
+  licenses:
+    - MIT
+- repo: nix_stable_26_05
+  srcname: macmon
+  visiblename: macmon
+  version: 0.6.1
+  origversion: null
+  status: outdated
+  summary: Sudoless performance monitoring for Apple Silicon processors
+  maintainers:
+    - brent.monning.jr@gmail.com
+  licenses:
+    - MIT
 - repo: nix_unstable
   srcname: macmon
   visiblename: macmon
-  version: 0.10.0
+  version: 0.11.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Sudoless performance monitoring for Apple Silicon processors
   maintainers:
     - brent.monning.jr@gmail.com
