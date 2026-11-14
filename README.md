@@ -14,11 +14,11 @@ x install macmon
 
 ## Code insight
 
-Total: **17,154** lines of code across **33** files in the top 5 languages.
+Total: **17,273** lines of code across **33** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 14,295 | 633 | 1,922 | 26 |
+| Rust | 14,414 | 634 | 1,926 | 26 |
 | Python | 1,792 | 18 | 155 | 4 |
 | Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
@@ -33,27 +33,27 @@ Total: **17,154** lines of code across **33** files in the top 5 languages.
 ## Release
 
 - **Latest**: `dev` (2026-11-06)
-- **Last commit**: 2026-11-11
+- **Last commit**: 2026-11-14
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,108 · **Forks**: 103 · **Open issues**: 57 · **Contributors**: 21
+- **Stars**: 2,111 · **Forks**: 103 · **Open issues**: 57 · **Contributors**: 22
 
 ## Totals (cumulative)
 
-- **Releases**: 25 · **Merged PRs**: 59 · **Open PRs**: 4 · **Closed issues**: 47 · **Open issues**: 10 · **Commits**: 183
+- **Releases**: 25 · **Merged PRs**: 61 · **Open PRs**: 1 · **Closed issues**: 50 · **Open issues**: 7 · **Commits**: 185
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 2 | 24 | 2 | 2 | 5 | 29 |
-| last60d | 2026-09-14 | 4 | 45 | 3 | 4 | 6 | 66 |
-| 90d | 2026-08-15 | 4 | 45 | 3 | 5 | 6 | 66 |
-| last180d | 2026-05-17 | 7 | 47 | 3 | 10 | 7 | 95 |
-| 360d | 2025-11-18 | 10 | 53 | 4 | 25 | 7 | 116 |
-| last720d | 2024-11-23 | 17 | 58 | 4 | 39 | 9 | 153 |
+| 30d | 2026-10-15 | 1 | 26 | 1 | 4 | 3 | 31 |
+| last60d | 2026-09-15 | 4 | 47 | 1 | 6 | 3 | 68 |
+| 90d | 2026-08-16 | 4 | 47 | 1 | 8 | 3 | 68 |
+| last180d | 2026-05-18 | 7 | 49 | 1 | 13 | 4 | 97 |
+| 360d | 2025-11-19 | 10 | 55 | 1 | 28 | 4 | 118 |
+| last720d | 2024-11-24 | 17 | 60 | 1 | 42 | 6 | 155 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T06:27:39Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T06:15:01Z._
