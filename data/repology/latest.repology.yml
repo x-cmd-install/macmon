@@ -16,9 +16,9 @@
   srcname: sysutils/macmon
   binname: macmon
   visiblename: macmon
-  version: 0.11.0
+  version: 0.12.0
   origversion: null
-  status: outdated
+  status: newest
   summary: Sudoless performance monitoring CLI tool for Apple Silicon processors
   maintainers:
     - i0ntempest@macports
