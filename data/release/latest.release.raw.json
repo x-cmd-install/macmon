@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/vladkens/macmon/releases/446244076",
-  "assets_url": "https://api.github.com/repos/vladkens/macmon/releases/446244076/assets",
-  "upload_url": "https://uploads.github.com/repos/vladkens/macmon/releases/446244076/assets{?name,label}",
-  "html_url": "https://github.com/vladkens/macmon/releases/tag/v0.12.0",
-  "id": 446244076,
+  "url": "https://api.github.com/repos/vladkens/macmon/releases/455911479",
+  "assets_url": "https://api.github.com/repos/vladkens/macmon/releases/455911479/assets",
+  "upload_url": "https://uploads.github.com/repos/vladkens/macmon/releases/455911479/assets{?name,label}",
+  "html_url": "https://github.com/vladkens/macmon/releases/tag/v0.12.1",
+  "id": 455911479,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOMKBR7c4amSTs",
-  "tag_name": "v0.12.0",
+  "node_id": "RE_kwDOMKBR7c4bLKg3",
+  "tag_name": "v0.12.1",
   "target_commitish": "main",
-  "name": "v0.12.0",
+  "name": "v0.12.1",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-11-15T17:43:48Z",
-  "updated_at": "2026-11-15T17:45:58Z",
-  "published_at": "2026-11-15T17:45:58Z",
+  "created_at": "2026-11-23T19:44:52Z",
+  "updated_at": "2026-11-23T19:46:58Z",
+  "published_at": "2026-11-23T19:46:58Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/vladkens/macmon/releases/assets/751810424",
-      "id": 751810424,
-      "node_id": "RA_kwDOMKBR7c4sz7d4",
-      "name": "macmon-v0.12.0-aarch64-apple-darwin.tar.gz",
+      "url": "https://api.github.com/repos/vladkens/macmon/releases/assets/784309355",
+      "id": 784309355,
+      "node_id": "RA_kwDOMKBR7c4uv5xr",
+      "name": "macmon-v0.12.1-aarch64-apple-darwin.tar.gz",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,28 +65,28 @@
       },
       "content_type": "application/x-gtar",
       "state": "uploaded",
-      "size": 997233,
-      "digest": "sha256:cd5a701f8537072aee93eba686bc582897bd00d826f62146b32c8a8d2654641a",
-      "download_count": 1033,
-      "created_at": "2026-11-15T17:45:57Z",
-      "updated_at": "2026-11-15T17:45:58Z",
-      "browser_download_url": "https://github.com/vladkens/macmon/releases/download/v0.12.0/macmon-v0.12.0-aarch64-apple-darwin.tar.gz"
+      "size": 1004973,
+      "digest": "sha256:93e37628f57023aaf51147d32aeead6fa7ba092bf85bda86581a78e826e0d6fb",
+      "download_count": 156,
+      "created_at": "2026-11-23T19:46:57Z",
+      "updated_at": "2026-11-23T19:46:57Z",
+      "browser_download_url": "https://github.com/vladkens/macmon/releases/download/v0.12.1/macmon-v0.12.1-aarch64-apple-darwin.tar.gz"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/vladkens/macmon/tarball/v0.12.0",
-  "zipball_url": "https://api.github.com/repos/vladkens/macmon/zipball/v0.12.0",
-  "body": "### Breaking Changes\n\n- `all_power` now covers the whole chip, memory included, so it reads higher on most Macs; it is deprecated in favor of the new `chip_power`, which has the same value. `gpu_ram_power` is deprecated too (#117, by @homm)\n- `pipe` and `/json` round floats to six decimal places (#140, by @corneliusroemer-agent)\n\n### Features\n\n- Added `chip_power` for the whole chip, `dcs_power` for the memory controller and `media_power` for the video encoder and image processor on M6, in JSON and Prometheus (#117, by @homm)\n- Added `dc_in_power`, the power from the adapter, and `display_power`, the built-in display's backlight, where the Mac reports them (#118, by @homm)\n- Added `disk_read`, `disk_write`, `net_in`, `net_out` (bytes per second), `uptime`, `battery_percent`, `battery_charging` and `battery_plugged` to JSON and Prometheus (#129)\n- Added `gpu_mem_alloc` and `gpu_mem_in_use`, GPU memory in bytes, to JSON and Prometheus (#134, by @unlikelyzero)\n- New fields are in `Metrics` of the Rust library too, `Option` where a Mac may not report them\n- Added the command line to the process list: arguments after the name, `cmd:` in the filter and a `cmd` row in the `i` overlay (#127)\n- Added `port:` to the process filter, to find the process with a local TCP or UDP port (#128)\n- Added a cursor to the filter field, with word moves and deletes as in a shell (#130)\n- Added `Sampler::get_metrics_now` for library users that run their own timer; the TUI interval now goes down to 100 ms (#115, by @homm)\n- Added fallback power and temperature sources from mactop, used only when the current ones read nothing, in case Apple breaks them as it did on macOS 27 (#142)\n\n### Fixes\n\n- Fixed `cpu_temp_avg` reading a few degrees low and rare GPU temperatures around 5 °C (#142)\n- `sys_power` on desktops falls back to the adapter power when the system total reads 0, as reported on Mac Studio (#142)\n- Fixed the TUI under `sudo` saving settings through paths the user controls; as root it now keeps them for the session only (#138, by @chodorenko)\n- Fixed `macmon serve` running out of threads or hanging on idle connections: at most 32 at once, with a 5 s timeout (#137, by @chodorenko)\n- The process list uses about half the CPU it did (#131), and the TUI draws metrics and processes in one frame (#116, by @homm)\n\n**Full Changelog**: https://github.com/vladkens/macmon/compare/v0.11.0...v0.12.0",
+  "tarball_url": "https://api.github.com/repos/vladkens/macmon/tarball/v0.12.1",
+  "zipball_url": "https://api.github.com/repos/vladkens/macmon/zipball/v0.12.1",
+  "body": "### Features\n\n- Added `macmon serve --processes \"<query>\"`: the processes that match a TUI filter query go to `/metrics` with their CPU, CPU time, memory, GPU and power, e.g. `--processes \"gpu:>0\"` (#149)\n\n### Fixes\n\n- Fixed Mac Studio on macOS 27 reporting a battery at 0 % and `sys_power` equal to `chip_power` instead of the adapter power (#145, by @JondelaVega)\n- Fixed power graphs in the TUI filling their whole box at idle: they now scale to at least 2 W, and Total to at least 5 W (#148)\n- Stopped fans show as `fans off` instead of `0/0 rpm` (#148)\n\n**Full Changelog**: https://github.com/vladkens/macmon/compare/v0.12.0...v0.12.1",
   "reactions": {
-    "url": "https://api.github.com/repos/vladkens/macmon/releases/446244076/reactions",
-    "total_count": 9,
-    "+1": 2,
+    "url": "https://api.github.com/repos/vladkens/macmon/releases/455911479/reactions",
+    "total_count": 4,
+    "+1": 1,
     "-1": 0,
     "laugh": 0,
-    "hooray": 2,
+    "hooray": 1,
     "confused": 0,
-    "heart": 2,
-    "rocket": 2,
-    "eyes": 1
+    "heart": 1,
+    "rocket": 1,
+    "eyes": 0
   },
-  "mentions_count": 4
+  "mentions_count": 1
 }
