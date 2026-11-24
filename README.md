@@ -14,11 +14,11 @@ x install macmon
 
 ## Code insight
 
-Total: **17,534** lines of code across **34** files in the top 5 languages.
+Total: **17,847** lines of code across **34** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 14,519 | 635 | 1,927 | 26 |
+| Rust | 14,832 | 661 | 1,961 | 26 |
 | Python | 1,948 | 23 | 176 | 5 |
 | Json | 787 | 0 | 0 | 1 |
 | Sh | 143 | 2 | 22 | 1 |
@@ -32,42 +32,42 @@ Total: **17,534** lines of code across **34** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.12.0` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Latest**: `dev` (2026-11-23)
+- **Last commit**: 2026-11-23
 - **Assets in release**: 1
 
 ## Popularity
 
-- **Stars**: 2,146 · **Forks**: 105 · **Open issues**: 57 · **Contributors**: 22
+- **Stars**: 2,149 · **Forks**: 105 · **Open issues**: 58 · **Contributors**: 23
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 62 · **Open PRs**: 2 · **Closed issues**: 50 · **Open issues**: 7 · **Commits**: 186
+- **Releases**: 27 · **Merged PRs**: 67 · **Open PRs**: 1 · **Closed issues**: 55 · **Open issues**: 3 · **Commits**: 191
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-24 | 2 | 25 | 2 | 4 | 3 | 0 |
-| last60d | 2026-09-24 | 5 | 47 | 2 | 6 | 3 | 0 |
-| 90d | 2026-08-25 | 5 | 48 | 2 | 8 | 3 | 0 |
-| last180d | 2026-05-27 | 8 | 49 | 2 | 13 | 4 | 0 |
-| 360d | 2025-11-28 | 11 | 56 | 2 | 27 | 4 | 0 |
-| last720d | 2024-12-03 | 17 | 61 | 2 | 41 | 6 | 151 |
+| 30d | 2026-10-25 | 3 | 30 | 1 | 7 | 1 | 31 |
+| last60d | 2026-09-25 | 6 | 52 | 1 | 9 | 1 | 74 |
+| 90d | 2026-08-26 | 6 | 53 | 1 | 11 | 1 | 74 |
+| last180d | 2026-05-28 | 9 | 54 | 1 | 16 | 2 | 103 |
+| 360d | 2025-11-29 | 12 | 61 | 1 | 30 | 2 | 124 |
+| last720d | 2024-12-04 | 18 | 66 | 1 | 45 | 3 | 156 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [macmon-v0.12.0-aarch64-apple-darwin.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.12.0/macmon-v0.12.0-aarch64-apple-darwin.tar.gz) | 973.9 KiB | `native/darwin/arm64` |
+| [macmon-v0.12.1-aarch64-apple-darwin.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.12.1/macmon-v0.12.1-aarch64-apple-darwin.tar.gz) | 981.4 KiB | `native/darwin/arm64` |
 
 ## Distribution status
 
-Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **2** are ✅ on the latest upstream release, **5** are ⚠️ on an older version.
+Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.12.0` | ✅ latest |
+| Homebrew | `0.12.1` | ✅ latest |
 | Nix unstable | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -79,4 +79,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261123.yml` · 2026-11-23T07:54:15Z._
+_Snapshot: `data/card/261124.yml` · 2026-11-24T09:54:17Z._
