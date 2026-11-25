@@ -38,7 +38,7 @@ Total: **17,847** lines of code across **34** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 2,149 · **Forks**: 105 · **Open issues**: 58 · **Contributors**: 23
+- **Stars**: 2,151 · **Forks**: 105 · **Open issues**: 58 · **Contributors**: 23
 
 ## Totals (cumulative)
 
@@ -48,27 +48,18 @@ Total: **17,847** lines of code across **34** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 30 | 1 | 7 | 1 | 31 |
-| last60d | 2026-09-25 | 6 | 52 | 1 | 9 | 1 | 74 |
-| 90d | 2026-08-26 | 6 | 53 | 1 | 11 | 1 | 74 |
-| last180d | 2026-05-28 | 9 | 54 | 1 | 16 | 2 | 103 |
-| 360d | 2025-11-29 | 12 | 61 | 1 | 30 | 2 | 124 |
-| last720d | 2024-12-04 | 18 | 66 | 1 | 45 | 3 | 156 |
+| 30d | 2026-10-26 | 3 | 30 | 1 | 7 | 1 | 31 |
+| last60d | 2026-09-26 | 6 | 52 | 1 | 8 | 1 | 74 |
+| 90d | 2026-08-27 | 6 | 53 | 1 | 11 | 1 | 74 |
+| last180d | 2026-05-29 | 9 | 54 | 1 | 16 | 2 | 103 |
+| 360d | 2025-11-30 | 12 | 61 | 1 | 30 | 2 | 124 |
+| last720d | 2024-12-05 | 18 | 66 | 1 | 45 | 3 | 156 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
 | [macmon-v0.12.1-aarch64-apple-darwin.tar.gz](https://github.com/vladkens/macmon/releases/download/v0.12.1/macmon-v0.12.1-aarch64-apple-darwin.tar.gz) | 981.4 KiB | `native/darwin/arm64` |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/macmon). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.12.1` | ✅ latest |
-| Nix unstable | `0.11.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -79,4 +70,4 @@ Install metadata for macmon lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T09:54:17Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T08:17:27Z._
